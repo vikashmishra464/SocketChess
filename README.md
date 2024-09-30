@@ -26,36 +26,26 @@ To run this project locally, follow these steps:
 
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/ChessMate.git
+git clone https://github.com/vikashmishra464/SocketChess.git
+
 Navigate to the project directory:
 
-bash
-Copy code
+
 cd ChessMate
+
 Install dependencies:
 
 bash
 Copy code
 npm install
+
 Run the development server:
 
-bash
-Copy code
 node app.js
+
 Open your browser and go to http://localhost:3000 to view the app.
 
-How to Play
-When two players join, one will be assigned white and the other black.
-Spectators can join and watch the game, but they cannot make any moves.
-Players take turns making valid moves.
-Moves are validated and broadcasted in real-time to all connected clients.
-Hosting
-Backend: The backend can be deployed on Heroku or Render.
-Frontend: The static frontend can be hosted on Netlify or deployed alongside the backend.
-Contributing
-Feel free to contribute to the project by creating pull requests, reporting bugs, or suggesting new features. Follow these steps to contribute:
+Follow these steps to contribute:
 
 Fork the repository.
 Create a new branch (git checkout -b feature-branch).
