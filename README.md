@@ -35,8 +35,7 @@ cd ChessMate
 
 Install dependencies:
 
-bash
-Copy code
+
 npm install
 
 Run the development server:
